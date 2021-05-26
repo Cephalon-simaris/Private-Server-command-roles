@@ -1,4 +1,4 @@
-# Private-Server-reaction-roles
+# Private-Server-command-roles
 This is a working reaction role bot which works for a private server!
 It's features are :-
 
